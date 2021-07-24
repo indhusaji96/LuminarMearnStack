@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
+    body{
+        background-image: url("./images/co.jpg");
+        background-size: cover;
+        background-blend-mode: saturation;
+
+    }
+
+h1{
+    text-align: center;
+    font-family:'Lato', sans-serif;
+               
+}
+div{
+    width: 400px;
+    height: 600px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    float: left;
+    line-height: 30px;
+   
+
+}
+img{
+    width: 100%;
+   
+}
+.col-3 img{
+
+    height: 267px;
+}
+div p{
+    text-align: center;
+}
+ span{
+    font-weight: bold;
+}

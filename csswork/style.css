@@ -1,0 +1,24 @@
+h1{
+    color: tomato;
+     text-align: center;
+     text-decoration: underline;
+
+}
+
+body{
+    background-color: black;
+}
+
+#one{
+    color: #4a4e54 ;
+    text-decoration: none;
+}
+.two{
+    color: rgb(100, 75, 85);
+}
+h3{
+    color: hsl(185, 74%, 50%);
+}
+div p{
+    text-align:center;
+}

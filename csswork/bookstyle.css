@@ -1,0 +1,32 @@
+div{
+    width: 24%;
+    height: 600px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    float: left;
+}
+
+.col-1 img{
+
+    height: 300px;
+   width: 375px;
+}
+.col-2 img{
+
+    height: 300px;
+    width: 394px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.col-3 img{
+
+    height: 300px;
+    width: 400px;
+   
+}
+.col-4 img{
+
+    height: 300px;
+    width: 320px;
+}

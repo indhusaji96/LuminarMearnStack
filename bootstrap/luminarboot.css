@@ -1,0 +1,33 @@
+body{
+    height: 2000px;
+
+}
+.nav.item a:hover {
+    background-color: black;
+}
+.row h2{
+    color: #5e068a;
+    top: 800px;
+}
+
+h2 span:nth-child(1){
+    color: #5e068a99;
+}
+
+.btn-class:hover{
+    background-color: white;
+    color: #5e068a;
+    
+}
+.btn-class{
+
+    padding: 16px 27px;
+    font-weight: 600;
+    margin-top: 21px;
+    border-radius: 50px;
+    background-color: #5e068a;
+    border-color: #5e068a;
+}
+h5{
+    height: 300px;
+}
